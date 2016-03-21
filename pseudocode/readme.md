@@ -12,6 +12,8 @@
 * Portfolio Page
 * Portfolio Detail Page
 
+## Sample Theme
+http://themes.semicolonweb.com/html/canvas/headings-dropcaps.php
 
 ## Color Palette
 [ESL Palette](http://brandcolors.net?brands=247)
